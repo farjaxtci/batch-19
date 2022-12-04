@@ -1,0 +1,12 @@
+Class Recording youtube link below 
+================================================
+
+https://youtu.be/BnjpTIS1kHw
+
+== 
+
+How to install SSMS 
+How to download SSMS 
+How to stop & start Sql Server  service with configuration manager 
+check service status with PowerShell,  
+
