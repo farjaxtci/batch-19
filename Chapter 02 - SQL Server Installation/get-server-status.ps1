@@ -3,8 +3,6 @@
     before you run the script,  you must need to create table on sql server database 
  #>
 
- 
-
   # Variables for Import-Excel
 $FolderName         = "C:\backup"
 $FileName           = "emp_name.CSV"
