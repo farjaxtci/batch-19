@@ -1,9 +1,0 @@
-Class Date:  12-09-2022
-Link: https://youtu.be/0eakSn50GBk
-Subject: Network Protocol 
-
-Class Date:  12-10-2022
-Link: https://youtu.be/-z8jckZqpIU
-Subject: Relational Engine 
-
-
